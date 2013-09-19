@@ -1,0 +1,50 @@
+body {
+    font-family: "Helvetica Neue", "Helvetica";
+    font-size: 130%;
+}
+
+h1, h2, ul, dl {
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    width: 300px;
+    height: 100%;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.section {
+    margin-left: 20px;
+}
+
+.icon {
+    text-align: center;
+}
+
+.icon img {
+    border-radius: 15px;
+}
+
+dl { 
+    margin-left: 20px;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    font-size: 80%;
+    margin-left: 20px;
+    font-style: italic;
+}
